@@ -3,6 +3,7 @@ import java.util.*;
 
 class GuessingNumberGenerator{
 	int GNumber;
+	int num;
 	
 	int gNinput() {
 		
